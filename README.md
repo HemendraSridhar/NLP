@@ -1,6 +1,8 @@
-# NLP
-NLP+Finance Project 
-Welcome to my NLP for Finance project. This repository features a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model designed to classify financial news and statements into three categories: Positive, Negative, or Neutral.
+# NLP + Finance Project
+
+Welcome to my Financial Sentiment Analysis Model project!
+
+This repository features a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model designed to classify financial news and statements into three categories: Positive, Negative, or Neutral.
 
 Note: This project was originally completed previously and has been recently migrated to GitHub for portfolio documentation.
 
