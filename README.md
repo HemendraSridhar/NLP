@@ -11,15 +11,15 @@ Financial language is unique, so words like "volatile" or "spread" have differen
 Technical Stack
 Model: BERT (HuggingFace Transformers)
 
-Framework: PyTorch & TensorFlow
+Framework: PyTorch and TensorFlow
 
-Environment: Google Colab (GPU Accelerated)
+Environment: Google Colab (GPU runtime)
 
 Visualization: Seaborn, Matplotlib, and Plotly
 
 Data Processing: Scikit-learn, Pandas, NumPy
 
-Key Features & Workflow
+Key Features and Workflow
 1. Preprocessing: Full BERT pipeline including [CLS] and [SEP] token injection, attention masking, and sequence padding (max length 128).
 
 2. Training: Fine-tuned over 4 epochs with an AdamW optimizer and a linear learning rate scheduler.
